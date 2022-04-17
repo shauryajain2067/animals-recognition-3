@@ -1,0 +1,41 @@
+#div1{
+    width:100%;
+    background-color:gray;
+}
+#main{
+    width:100%;
+    background-color:darkgray;
+}
+#txt1{
+    font-family: 'Lobster', "cursive";
+    color:#00ffff;
+    font-weight:bolder;
+    letter-spacing: 5px;
+    font-size:25px;
+}
+#txt2{
+    font-family: 'Lobster', "cursive";
+    color:cyan;
+    font-weight:bolder;
+    letter-spacing: 3px;
+    font-size:20px;
+}
+#bts{
+    font-family: 'Rubik Bubbles', "curs";
+    font-size:30px;
+    color:green;
+    font-weight:bolder;
+    letter-spacing:6px;
+}
+
+#copy_right_footer{
+    background-color:blanchedalmond;
+    text-align:center;
+    font-family: 'Rubik Microbe', cursive;
+    position:fixed;
+    width:100%;
+    bottom:0px;
+    font-size:18px;
+    line-height:3;
+    text-shadow:5px 5px 5px grey;
+}
